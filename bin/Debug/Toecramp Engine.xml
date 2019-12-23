@@ -1,0 +1,113 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Toecramp Engine
+</name>
+</assembly>
+<members>
+<member name="T:Toecramp_Engine.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Toecramp_Engine.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Toecramp_Engine.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Toecramp_Engine.engine.calc.ThreeD(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Calculates the width or height relative to 0.
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.calc.ThreeD_rotation(System.Drawing.Image,System.Object,System.Drawing.Point,System.Int32)">
+ <summary>
+ In Development
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.re_initialize">
+ <summary>
+ Reinitialize the the Frame. This size until the reinitialization is 1,1. re-set the ImageSize Value and run this function!
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.render(System.Object,System.Drawing.Size,System.Drawing.Size,System.Boolean)">
+ <summary>
+ Renders the Frame. What do you think does this function? Baking cookies?
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.frame">
+ <summary>
+ It's the frame.
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.draw(System.Drawing.Image,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Adds an image to the frame.
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.cursor(System.Drawing.Size,System.Drawing.Point,System.Windows.Forms.Form,System.Drawing.Size)">
+ <summary>
+ Calculate the relative cursor position WITHIN THE SCREEN
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.cursor_WO_buffer(System.Drawing.Size,System.Drawing.Point,System.Windows.Forms.Form,System.Drawing.Size)">
+ <summary>
+ Calculate the relative cursor position WITHIN THE SCREEN but WITHOUT the Control-box buffer
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.FPS_Label(System.String)">
+ <summary>
+ Adds text to the top left corner. Can be used for FPS.
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.label(System.String,System.Drawing.Font,System.Int32,System.Int32,System.Drawing.Brush)">
+ <summary>
+ Draw string/text on screen by x and y coordinate. Example: ("This is a test", New System.Drawing.Font("Tahoma", 11, FontStyle.Bold), 20, 80, System.Drawing.Brushes.AliceBlue)
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.rendering.clear">
+ <summary>
+ Clear the frame.
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.effects.blur(System.Drawing.Bitmap,System.Int32)">
+ <summary>
+ Returns a blurry bitmap by the factor of the specified value. Can not be higher than width.
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.effects.filmgrain(System.Drawing.Bitmap,System.Int32,System.Int32)">
+ <summary>
+ Grains the frame. The factor is how often a grain is added to the frame. Factor 1 means one grain, or 1 pixel.
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.engine.physics.collision(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Checks if two objects collided.
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.MultiSounds.AddSound(System.String,System.String)">
+ <summary>
+ Add sound to the cache. (.WAV files only)
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.MultiSounds.Play(System.String)">
+ <summary>
+ Play a sound from the cache by it's name
+ </summary>
+</member>
+<member name="M:Toecramp_Engine.Resolution.ScreenResolution.ChangeResolution(System.Int32,System.Int32)">
+ <summary>
+ Changes the Screen Resolution. ATTENTION! SAVE THE OLD RESOLUTION SOMEWHERE!
+ </summary>
+ <param name="width"></param>
+ <param name="height"></param>
+</member>
+</members>
+</doc>

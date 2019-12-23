@@ -1,0 +1,15 @@
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\bin\Debug\Snic se hetshowrts.exe.config
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\bin\Debug\Snic se hetshowrts.exe
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\bin\Debug\Snic se hetshowrts.pdb
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\bin\Debug\Snic se hetshowrts.xml
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\bin\Debug\Toecramp Engine.dll
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\bin\Debug\Toecramp Engine.pdb
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\bin\Debug\Toecramp Engine.xml
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\obj\Debug\Snic se hetshowrts.vbprojAssemblyReference.cache
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\obj\Debug\Snic_se_hetshowrts.Form1.resources
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\obj\Debug\Snic_se_hetshowrts.Resources.resources
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\obj\Debug\Snic se hetshowrts.vbproj.GenerateResource.cache
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\obj\Debug\Snic se hetshowrts.vbproj.CopyComplete
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\obj\Debug\Snic se hetshowrts.exe
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\obj\Debug\Snic se hetshowrts.xml
+K:\0.Development\Visual Studio Projekte\Snic se hetshowrts\obj\Debug\Snic se hetshowrts.pdb
